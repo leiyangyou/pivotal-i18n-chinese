@@ -17,8 +17,9 @@
   "content_scripts": [
     {
       "all_frames": false,
-      "matches": ["http://*/*", "https://*/*"],
-      "js": ["content.js"]
+      "matches": ["http://www.pivotaltracker.com/*", "https://www.pivotaltracker.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
     }
   ],
   "icons": {

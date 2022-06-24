@@ -3,11 +3,11 @@
     "message": "Hello, World!"
   },
   "appName": {
-    "message": "Pivotal Tracker - Chinese Translation",
+    "message": "Pivotal Tracker - 中文翻译",
     "description": "The title of the application, displayed in the web store."
   },
   "appShortName": {
-    "message": "PT - Chinese",
+    "message": "PT - 中文翻译",
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name. "
   },
   "appDesc": {
